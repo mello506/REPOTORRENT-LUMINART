@@ -23,11 +23,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR red][B] FILMES EM TORRENT[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOTORRENT-LUMINART/main/1A-SELFILMES-TORRENT</externallink>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>link externo</externallink>
-<info>
-   O MELHOR DA SÉTIMA ARTE</info>
+<info>O MELHOR DA SÉTIMA ARTE</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
