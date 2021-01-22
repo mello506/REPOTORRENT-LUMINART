@@ -1,0 +1,113 @@
+nes (248 sloc) 17.5 KB
+<channels></channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+
+<channels></channels>
+<channel>
+<name>[COLOR blue][B] ANIMES[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES ANIMES ESTÃO AQUI</info>
+<genre>ANIMES</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dragon Ball[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA SEU ANIME PARA ASSISTIR</info>
+<genre>ANIME</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dragon Ball Z [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_K91eeP25NA</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>ANIMES</genre> 
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dragon Ball Z - Todas as Sagas - Dublado[/B][/COLOR]</title>
+
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:f5635167d1f45159e5668e6a76b38c774b238a0f&dn$$lsname=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Saga dos Sayajins - Dublado[/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:cfc59ce47c7c0f0edbedc357dc2458b9056f7d83&dn$$lsname=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Saga de Freeza - Dublado[/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:05f99038fd0f1fc7d81251425649642841961870&dn$$lsname=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Saga de Garlic Jr. - Dublado[/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:e5f7f815ebe8a8a683744ecc47e1a32189c14a53&dn$$lsname=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Saga dos Androides - Dublado[/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:c99759c4f0accb04e2b47aa0b6d2efa5f0da5b41&dn$$lsname=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Saga de Cell - Dublado[/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:6d3eb64b65edd8cc6d064f8aa327427f0b74439f&dn$$lsname=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Saga Torneio de Outro Mundo - Dublado[/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:f971d0d48f8acaa1f425d9004fb37c2c7e18a697&dn$$lsname=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Saga Majin Boo - Dublado[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Dragon Ball é uma franquia de mídia japonesa criada por Akira Toriyama. Originalmente iniciada com uma série de mangá que foi escrita e ilustrada por Toriyama, teve os seus capítulos serializados .</info>
+<genre>ANIMES</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Dragon Ball Super - Dublado[/B][/COLOR]</title>
+
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D&dn$$lsname=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dragon Ball Super - T01 - Dublado[/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:5FC9FC66435C9326CD16D7228814A91A86E1BD40$$lsname=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dragon Ball Super - T02 - Dublado[/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:E26437140A5934240005D5AD53276231E296CE3D$$lsname=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dragon Ball Super - T03 - Dublado[/COLOR]</link>
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:0F7EA6ECC6D3B3084E4B00000623CAAF5333F18A&dn=$$lsname=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Dragon Ball Super - T04 - Dublado[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Dragon Ball é uma franquia de mídia japonesa criada por Akira Toriyama. Originalmente iniciada com uma série de mangá que foi escrita e ilustrada por Toriyama, teve os seus capítulos serializados .</info>
+<genre>ANIMES</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Naruto[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA SEU ANIME PARA ASSISTIR</info>
+<genre>ANIME</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Naruto [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=j2hiC9BmJlQ</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>ANIMES</genre> 
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Naruto Clássico  - Dublado[/B][/COLOR]</title>
+
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D&dn[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Naruto Clássico - Dublado[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Naruto é uma série de mangá escrita e ilustrada por Masashi Kishimoto, que conta a história de Naruto Uzumaki, um jovem ninja que constantemente procura por reconhecimento e sonha em se tornar Hokage, o ninja líder de sua vila.</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Naruto Shippuden - Dublado[/B][/COLOR]</title>
+
+<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:C37C191852FF55BBB33C09D22867434D4B907365&dn=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Naruto Shippuden - Dublado[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Naruto é uma série de mangá escrita e ilustrada por Masashi Kishimoto, que conta a história de Naruto Uzumaki, um jovem ninja que constantemente procura por reconhecimento e sonha em se tornar Hokage, o ninja líder de sua vila.</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
