@@ -92,18 +92,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Naruto Clássico  - Dublado[/B][/COLOR]</title>
 
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D&dn[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Naruto Clássico - Dublado[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D&dn</link>
 
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Naruto é uma série de mangá escrita e ilustrada por Masashi Kishimoto, que conta a história de Naruto Uzumaki, um jovem ninja que constantemente procura por reconhecimento e sonha em se tornar Hokage, o ninja líder de sua vila.</info>
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Naruto Shippuden - Dublado[/B][/COLOR]</title>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Naruto Shippuden  - Dublado[/B][/COLOR]</title>
 
-<link>http://localhost:65220/play?uri=magnet:?xt=urn:btih:C37C191852FF55BBB33C09D22867434D4B907365&dn=[B]ANIME[/B][COLOR yellow] ->[/COLOR][COLOR lime] Naruto Shippuden - Dublado[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C37C191852FF55BBB33C09D22867434D4B907365&dn</link>
 
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
