@@ -1,4 +1,3 @@
-nes (248 sloc) 17.5 KB
 <channels></channels>
 <channel>
 <name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
@@ -142,17 +141,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Avatar[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Avatar A Lenda de Aang[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui aqui a coleção Avatar em TORRENT</info>
+<info>Assista aqui aqui a coleção Avatar A Lenda de Aang em TORRENT</info>
 <genre>GENERO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Avatar [/B][/COLOR]</title>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Avatar A Lenda de Aang [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=sqk3OdPRC8U</link>
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -169,4 +168,62 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>É uma série de desenho animado estadunidense criada por Michael Dante Dimartino e Bryan Konietzko, produzida e exibida pela Nickelodeon. Passa-se em um mundo fictício influenciado pelas artes marciais asiáticas mescladas a magia elemental. A série conta as aventuras do sucessor de uma longa linhagem de Avatares, Aang e seus amigos em uma busca para salvar o mundo da nação do Fogo. A série é escrita na forma de livros, e cada episódio se torna um “capítulo”, e cada temporada um “livro” diferente.</info>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Avatar A Lenda De Korra[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui aqui a coleção Avatar A Lenda De Korra em TORRENT</info>
+<genre>GENERO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Avatar A Lenda De Korra[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=igXpjBbel2U</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>ANIMES</genre> 
+</item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Avatar A Lenda De Korra - T01 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2ae22d0c9ae5ca9daa734ef49f0f4ce4fbd12ed&dn=Avatar+A+Lenda+de+Korra+Livro+2+Espiritos+%282014%29+BluRay+1080p+Du&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Sinpse</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Avatar A Lenda De Korra - T02 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2ae22d0c9ae5ca9daa734ef49f0f4ce4fbd12ed&dn=Avatar+A+Lenda+de+Korra+Livro+2+Espiritos+%282014%29+BluRay+1080p+Du&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Sinpse</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Avatar A Lenda De Korra - T03 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC6ED573D49FC3CF45B83F378E4A60A6A01F9653&dn=Avatar%20-%20A%20Lenda%20de%20Korra%203%c2%aa%20Temporada%20%282014%29%20BDRip%20720p%20Dublado%20-%20WWW.WOLVERDONFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A lenda de Korra ocorre 70 anos depois de Avatar: A Lenda De Aang. Korra a seguinte, depois do Avatar Aang, uma garota rebelde, explosiva, independente e "pronta para enfrentar o mundo" com cerca de 16/17 anos. Korra, assim como Aang e Appa, tem seu parceiro animal, chamado Naga. Korra vem da tribo da Água do sul e já dominou a Terra, Fogo e Água. E agora o filho mais velho de Aang e Katara, Tenzin será seu professor da dobra de ar, Tenzin tem três filhos, Jinora (a mais velha), Ikki (a do meio) e Meelo (caçula), todos dominam ar e sua mulher Pemma. Uma das definições da história é Republic city. "habitada por pessoas de todas as nações". Lá Korra deve lidar com a criminalidade galopante e uma revolta anti dominação.</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Avatar A Lenda De Korra - T04 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34F20F540E4AB457266C01DE55CB2529F9A019FD&dn=avatar+a+lenda+de+korra+livro+4+equil%C3%ADbrio&tr=udp%3A%2F%2Ftracker.publicbt.com%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A lenda de Korra ocorre 70 anos depois de Avatar: A Lenda De Aang. Korra a seguinte, depois do Avatar Aang, uma garota rebelde, explosiva, independente e "pronta para enfrentar o mundo" com cerca de 16/17 anos. Korra, assim como Aang e Appa, tem seu parceiro animal, chamado Naga. Korra vem da tribo da Água do sul e já dominou a Terra, Fogo e Água. E agora o filho mais velho de Aang e Katara, Tenzin será seu professor da dobra de ar, Tenzin tem três filhos, Jinora (a mais velha), Ikki (a do meio) e Meelo (caçula), todos dominam ar e sua mulher Pemma. Uma das definições da história é Republic city. "habitada por pessoas de todas as nações". Lá Korra deve lidar com a criminalidade galopante e uma revolta anti dominação.</info>
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
