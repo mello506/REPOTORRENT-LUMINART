@@ -25,27 +25,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tartaruga Touché e Dum Dum [/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Croods, o início[/B][/COLOR]</name>
 <thumbnail>ICONEDEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Seção Tartaruga Touché e Dum Dum </info>
+<info>Seção Croods, o início</info>
 <genre>DESENHOS</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Tartaruga Touché e Dum Dum [/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Croods, o início[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://i.imgur.com/Y27ugFr.jpg</thumbnail>
+<thumbnail>https://media.fstatic.com/FB61R94AWMDKrdf7MhHinPVoVfE=/290x478/smart/media/movies/covers/2015/12/dawn-of-the-croods_tNone.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios de Tartaruga Touché e Dum Dum  em TORRENT</info>
+<info>Assista aqui os episódios de Croods, o início em TORRENT</info>
 <genre>DESENHOS</genre> 
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tartaruga Touché e Dum Dum  [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=N6wnYcuw-LA</link>
-<thumbnail>https://i.imgur.com/Y27ugFr.jpg</thumbnail>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Croods, o início [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=IoYMr-Zojm0</link>
+<thumbnail>https://media.fstatic.com/FB61R94AWMDKrdf7MhHinPVoVfE=/290x478/smart/media/movies/covers/2015/12/dawn-of-the-croods_tNone.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
 <genre>DESENHOS</genre>   
@@ -53,11 +53,51 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tartaruga Touché e Dum Dum  - 1962 - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9CE4787794983B96BF31CEE77153ECBF0DDB2065&dn=ondeeubaixo.com%20-%20Os%20Jetsons%20Primeira%20Temporada%20Completa%2024%20epis%c3%b3dios&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
-<thumbnail>https://i.imgur.com/Y27ugFr.jpg</thumbnail>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Croods, o início - 2015 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EE9FED9F983356057F94EF1B0810D816C9B3B2B8&dn=Dawn%20of%20the%20Croods%20-%201%c2%aa%20Temporada%20%282015%29%20Dual%20%c3%81udio%20720p%20%2b%20Legendas%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
+<thumbnail>https://media.fstatic.com/FB61R94AWMDKrdf7MhHinPVoVfE=/290x478/smart/media/movies/covers/2015/12/dawn-of-the-croods_tNone.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>A Tartaruga Touché e o seu amigo o cão Dum Dum eram um par de heróis que batalhavam contra vilões em todo tipo de aventuras, salvando reis, rainhas, donzelas, crianças e outros. Touché era o bravo e destemido líder, sempre com um chapelão enfeitado com uma pena, e uma espada na mão. Dum Dum era seu companheiro e seguia fielmente Touché em suas incríveis aventuras.</info>
+<info>A primeira família do mundo está de volta para mais risadas com esportes, festas do pijama e as maravilhas de um mundo onde tudo é novidade.</info>
+<genre>DESENHOS</genre>   
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Jetsons[/B][/COLOR]</name>
+<thumbnail>ICONEDEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção Os Jetsons</info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Os Jetsons[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://3.bp.blogspot.com/-ASWMdfYJiKI/WRdmQmFCu5I/AAAAAAAAC44/TVFsPGlE5eYdgB7N7VfpVd7i4qLkvli6wCLcB/s1600/os-jetsons-torrent-desenho-min.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de Os Jetsons em TORRENT</info>
+<genre>DESENHOS</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Jetsons [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hV5Au1R6rtQ</link>
+<thumbnail>https://3.bp.blogspot.com/-ASWMdfYJiKI/WRdmQmFCu5I/AAAAAAAAC44/TVFsPGlE5eYdgB7N7VfpVd7i4qLkvli6wCLcB/s1600/os-jetsons-torrent-desenho-min.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>DESENHOS</genre>   
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Jetsons - 1984 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9CE4787794983B96BF31CEE77153ECBF0DDB2065&dn=ondeeubaixo.com%20-%20Os%20Jetsons%20Primeira%20Temporada%20Completa%2024%20epis%c3%b3dios&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
+<thumbnail>https://3.bp.blogspot.com/-ASWMdfYJiKI/WRdmQmFCu5I/AAAAAAAAC44/TVFsPGlE5eYdgB7N7VfpVd7i4qLkvli6wCLcB/s1600/os-jetsons-torrent-desenho-min.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Um desenho animado que narra o dia-a-dia de uma família simples, num futuro muito adiante do nosso tempo. Essa família era composta por George Jetson que trabalha para um sujeito chamado Senhor Spacely, proprietário da Spacely Sprocket Company, que gosta de tratar seus funcionários, todos como escravos, deixando eles totalmente estressados, principalmente George. A sua sorte dele é ter como esposa Jane, que está sempre de bom astral, mas também adora ficar preparando boas surpresas para a família, quase todos os dias e ainda consegue segurar a barra do marido. Eles tem dois filhos, a mais velha chama-se Jud, uma adolescente que adora fazer compras e todas as maluquices próprias da sua idade e o Elroy, um pequeno gênio.</info>
 <genre>DESENHOS</genre>   
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -105,27 +145,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Croods, o início[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tartaruga Touché e Dum Dum [/B][/COLOR]</name>
 <thumbnail>ICONEDEPASTA</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Seção Croods, o início</info>
+<info>Seção Tartaruga Touché e Dum Dum </info>
 <genre>DESENHOS</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Croods, o início[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Tartaruga Touché e Dum Dum [/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>https://media.fstatic.com/FB61R94AWMDKrdf7MhHinPVoVfE=/290x478/smart/media/movies/covers/2015/12/dawn-of-the-croods_tNone.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/Y27ugFr.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios de Croods, o início em TORRENT</info>
+<info>Assista aqui os episódios de Tartaruga Touché e Dum Dum  em TORRENT</info>
 <genre>DESENHOS</genre> 
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Croods, o início [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=IoYMr-Zojm0</link>
-<thumbnail>https://media.fstatic.com/FB61R94AWMDKrdf7MhHinPVoVfE=/290x478/smart/media/movies/covers/2015/12/dawn-of-the-croods_tNone.jpg</thumbnail>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tartaruga Touché e Dum Dum  [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=N6wnYcuw-LA</link>
+<thumbnail>https://i.imgur.com/Y27ugFr.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
 <genre>DESENHOS</genre>   
@@ -133,11 +173,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Croods, o início - 2015 - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EE9FED9F983356057F94EF1B0810D816C9B3B2B8&dn=Dawn%20of%20the%20Croods%20-%201%c2%aa%20Temporada%20%282015%29%20Dual%20%c3%81udio%20720p%20%2b%20Legendas%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce</link>
-<thumbnail>https://media.fstatic.com/FB61R94AWMDKrdf7MhHinPVoVfE=/290x478/smart/media/movies/covers/2015/12/dawn-of-the-croods_tNone.jpg</thumbnail>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tartaruga Touché e Dum Dum  - 1962 - Dublado[/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:856C812B9911046FB88ED3FA7E04B9A46486D27E&dn=ondeeubaixo.com%20-%20Tartaruga%20Touch%c3%a9%20e%20Dum%20Dum&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
+
+<thumbnail>https://i.imgur.com/Y27ugFr.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>A primeira família do mundo está de volta para mais risadas com esportes, festas do pijama e as maravilhas de um mundo onde tudo é novidade.</info>
+<info>A Tartaruga Touché e o seu amigo o cão Dum Dum eram um par de heróis que batalhavam contra vilões em todo tipo de aventuras, salvando reis, rainhas, donzelas, crianças e outros. Touché era o bravo e destemido líder, sempre com um chapelão enfeitado com uma pena, e uma espada na mão. Dum Dum era seu companheiro e seguia fielmente Touché em suas incríveis aventuras.</info>
 <genre>DESENHOS</genre>   
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
