@@ -49,12 +49,38 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista ao trailer</info>
 <genre>DESENHOS</genre>   
+</item> <channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tartaruga Touché e Dum Dum [/B][/COLOR]</name>
+<thumbnail>ICONEDEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção Tartaruga Touché e Dum Dum </info>
+<genre>DESENHOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Tartaruga Touché e Dum Dum [/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.imgur.com/Y27ugFr.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de Tartaruga Touché e Dum Dum  em TORRENT</info>
+<genre>DESENHOS</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tartaruga Touché e Dum Dum  [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=N6wnYcuw-LA</link>
+<thumbnail>https://i.imgur.com/Y27ugFr.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>DESENHOS</genre>   
 </item> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tartaruga Touché e Dum Dum  - 1962 - Dublado[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:856C812B9911046FB88ED3FA7E04B9A46486D27E&dn=ondeeubaixo.com%20-%20Tartaruga%20Touché%20e%20Dum%20Dum&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
+<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime] Tartaruga Touché e Dum Dum  - 1962 - Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:856C812B9911046FB88ED3FA7E04B9A46486D27E&dn=ondeeubaixo.com%20-%20Tartaruga%20Touch%c3%a9%20e%20Dum%20Dum&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce</link>
 <thumbnail>https://i.imgur.com/Y27ugFr.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>A Tartaruga Touché e o seu amigo o cão Dum Dum eram um par de heróis que batalhavam contra vilões em todo tipo de aventuras, salvando reis, rainhas, donzelas, crianças e outros. Touché era o bravo e destemido líder, sempre com um chapelão enfeitado com uma pena, e uma espada na mão. Dum Dum era seu companheiro e seguia fielmente Touché em suas incríveis aventuras.</info>
