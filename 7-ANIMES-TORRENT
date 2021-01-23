@@ -141,7 +141,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>ICONEDOARQUIVO</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Assista aqui aqui a coleção Naruto em TORRENT</info>
-<genre>GENERO</genre>  
+<genre>ANIMES</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -157,9 +157,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Naruto Clássico  - Dublado[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0AF52C718B0B428807892CF40A715A6F54C2B45D&dn</link>
-
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Naruto é uma série de mangá escrita e ilustrada por Masashi Kishimoto, que conta a história de Naruto Uzumaki, um jovem ninja que constantemente procura por reconhecimento e sonha em se tornar Hokage, o ninja líder de sua vila.</info>
@@ -168,9 +166,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Naruto Shippuden  - Dublado[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C37C191852FF55BBB33C09D22867434D4B907365&dn</link>
-
 <thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Naruto é uma série de mangá escrita e ilustrada por Masashi Kishimoto, que conta a história de Naruto Uzumaki, um jovem ninja que constantemente procura por reconhecimento e sonha em se tornar Hokage, o ninja líder de sua vila.</info>
@@ -245,4 +241,77 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Boruto[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA SEU ANIME PARA ASSISTIR</info>
+<genre>ANIME</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Boruto[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui aqui a coleção Boruto em TORRENT</info>
+<genre>ANIME</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Boruto [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=j2hiC9BmJlQ</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>ANIMES</genre> 
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Boruto - T01 completa  - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6TDPF5AJSN7TOUEHRFKAZE35HAZ2NOEZ&dn=Boruto%20Naruto%20Next%20Generations%201%C2%AA%20temporada%20Completa%20(Ep.%2001%20ao%20Ep.%2026)%20%5B720p%5D%20%5BLEG%5D%20COMANDOTORRENTS.COM</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A vida do shinobi está começando a mudar. Boruto Uzumaki, filho do Sétimo Hokage Naruto Uzumaki, se matriculou na Academia Ninja para aprender os caminhos do ninja. Agora, à medida que uma série de eventos misteriosos se desenrolam, a história de Boruto está prestes a começar!</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Boruto  - T02 completa - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YZZZTALSS35RBLMC25ZSTFLNHNO6WDLB&dn=Boruto%20-%20Naruto%20Next%20Generations%20-%20Ep.%20S02E27-56%20%5B720p%5D%20%5BLEG%5D%20COMANDOTORRENTS.COM</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A vida do shinobi está começando a mudar. Boruto Uzumaki, filho do Sétimo Hokage Naruto Uzumaki, se matriculou na Academia Ninja para aprender os caminhos do ninja. Agora, à medida que uma série de eventos misteriosos se desenrolam, a história de Boruto está prestes a começar!</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Boruto  - T03  - Eps. até 76 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JALVWWE3XOIJKZSLCARRZPYZRVIR5ZXP&dn=%5BBAIXE%20NO%20COMANDOTORRENTS.COM%5D%20Boruto%20-%20Naruto%20Next%20Generations%203%C2%AA%20Temporada%20Completa%202018%20%5BHDTV%5D%20%5B720p%5D%20%5BLEG%5D</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A vida do shinobi está começando a mudar. Boruto Uzumaki, filho do Sétimo Hokage Naruto Uzumaki, se matriculou na Academia Ninja para aprender os caminhos do ninja. Agora, à medida que uma série de eventos misteriosos se desenrolam, a história de Boruto está prestes a começar!</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Boruto Episódios novos - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5HEIA3QROZZFEFSEQBDYLDFEGVZXSQFQ&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2076%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=387600506$$lsname=[B] T01E76[/B][COLOR yellow] ->[/COLOR][COLOR lime] Boruto Episódios novos - Dublado[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42PDLR3HSM4VWKXISQCCKPRZWX6RTOKW&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2077%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=435429659$$lsname=[B] T0377[/B][COLOR yellow] ->[/COLOR][COLOR lime] Boruto Episódios novos - Dublado[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QCFWGCGIY234Z5UZNY7VMJ2AZU7ONBCV&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2078%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=410792723$$lsname=[B] T03E78[/B][COLOR yellow] ->[/COLOR][COLOR lime] Boruto Episódios novos - Dublado[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JQSVKUFOPACYLN5EDXGVFP2HIXUYOLFF&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2079%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=414260007$$lsname=[B] T03E79[/B][COLOR yellow] ->[/COLOR][COLOR lime] Boruto Episódios novos - Dublado[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DREDQWLAO63Z4LULD4EEUYV7QSJXSS4S&dn=%5BErai-raws%5D%20Boruto%20-%20Naruto%20Next%20Generations%20-%2080%20%5B720p%5D%5BMultiple%20Subtitle%5D.mkv&xl=379293285$$lsname=[B] T03E80[/B][COLOR yellow] ->[/COLOR][COLOR lime] Boruto Episódios novos - Dublado[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>A vida do shinobi está começando a mudar. Boruto Uzumaki, filho do Sétimo Hokage Naruto Uzumaki, se matriculou na Academia Ninja para aprender os caminhos do ninja. Agora, à medida que uma série de eventos misteriosos se desenrolam, a história de Boruto está prestes a começar!</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 
