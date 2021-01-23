@@ -1,21 +1,65 @@
-<item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR blue][B] SÉRIES DE FICÇÃO E FANTASIA EM TORRENT[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue][B] SÉRIES DE FICÇÃO E FANTASIA EM TORRENT[/B][/COLOR]</name>
 <link>NO LINK</link>
 <thumbnail>https://i.ibb.co/HncMJy0/ficaoefantasia-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES SÉRIES DE FICÇÃO E FANTASIA EM TORRENT</info>
 <genre>FICÇÃO E FANTASIA</genre>
-</item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exterminador do Futuro - Crônicas de Sarah Connor[/B][/COLOR]</name>
+<thumbnail>ICONEDEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção O Exterminador do Futuro - Crônicas de Sarah Connor</info>
+<genre>FICÇÃO E FANTASIA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Exterminador do Futuro - Crônicas de Sarah Connor[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://ondeeubaixo.org/imagens/o-exterminador-do-futuro-cronicas-de-sarah-connor-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de O Exterminador do Futuro - Crônicas de Sarah Connor em TORRENT</info>
+<genre>FICÇÃO E FANTASIA</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exterminador do Futuro - Crônicas de Sarah Connor [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Il1vMzdZZuU</link>
+<thumbnail>https://ondeeubaixo.org/imagens/o-exterminador-do-futuro-cronicas-de-sarah-connor-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>FICÇÃO E FANTASIA</genre>   
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Exterminador do Futuro - Crônicas de Sarah Connor - T01 - 2008 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:321117e7fc2c260d48ebb5fe4d9393aab8005a71</link>
+<thumbnail>https://ondeeubaixo.org/imagens/o-exterminador-do-futuro-cronicas-de-sarah-connor-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> O Exterminador do Futuro - Crônicas de Sarah Connor ocorre exclusivamente dentro dos limites de uma sala de entrevista policial. A série vai focar no intenso conflito mental entre o policial eAuxiliada por androides, uma recém-surgida inteligência artificial segue tramando para dominar o mundo e arruinar a humanidade. As máquinas devem encontrar e exterminar o futuro líder da resistência, John, que conta com a proteção e orientação de sua mãe, Sarah, para tornar-se o homem que está destinado a ser. o suspeito em questão. </info>
+<genre>FICÇÃO E FANTASIA</genre>   
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
