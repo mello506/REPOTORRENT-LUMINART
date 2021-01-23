@@ -1,21 +1,117 @@
-<item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
 <fanart>http://bit.do/fanartnavegacao</fanart>
 <link>NO LINK</link>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR blue][B] SÉRIES DE SUPER-HERÓIS EM TORRENT[/B][/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR blue][B] SÉRIES DE SUPER-HERÓIS EM TORRENT[/B][/COLOR]</name>
 <link>NO LINK</link>
 <thumbnail>https://i.ibb.co/TvQNrTv/sub-cat-superherois.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS MELHORES SÉRIES DE SUPER-HERÓIS EM TORRENT</info>
 <genre>SUPER-HERÓIS</genre>
-</item>
+</channel>
+</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Flash[/B][/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção The Flash</info>
+<genre>SUPER-HERÓIS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] The Flash[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de The Flash em TORRENT</info>
+<genre>SUPER-HERÓIS</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Flash [/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Yj0l7iGKh8g</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>SUPER-HERÓIS</genre>   
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime] The Flash - Todas as temporadas - Dublado[/COLOR]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87F75D282469ED86566EF0C0D7B78658BD2B171F&dn=WWW.COMANDO-FILMES.COM%20-%20The%20Flash%201%c2%b0%20Temporada%20Completa%20%e2%80%93%20Blu-Ray%20720p%20Dual%20%c3%81udio%20Dublado%20%2b%20Legendas%20%282015%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce$$lsname=[B]T01[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:956368582F5847FBACD831277A63772F67D8753E&dn=The%20Flash%20-%202%c2%aa%20Temporada%20%282016%29%20Blu-Ray%20Dual%20%c3%81udio%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a82%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce$$lsname=[B]T02[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0D544E859B7020E70DA4FBAFDC612B61DE67944&dn=The.Flash.2017.S03.WEB-DL.Dual.Audio-LAPUMiAFiLMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]T03[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8240837b0faf680ecf0decf14288f1a5e0b00bbb&dn=The.Flash.S06.720p.NF.WEB-DL.DDP2.0.x264-SiGLA&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]T06[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]T04[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE FLASH [/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5379e77477dc3d247a4017cc77fb2d5f5a3ea9a&dn=The.Flash.S04E01.720p.WEB-DL.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fanno...&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fa...&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce$$lsname=[B]T04E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fcb63ea1e3c6a50787da8ea869278788265d5cc&dn=The.Flash.2014.S04E02.720p.HDTV.X264-DIMENSION%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:030a61ad2a54b759dc7fadbb1f6107e58ccb8187&dn=The.Flash.2014.S04E03.720p.HDTV.X264-DIMENSION%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f919ab54e6213fe45b0f51578ba17045120a8b03&dn=The.Flash.2014.S04E04.720p.HDTV.X264-DIMENSION%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a64eb67e269a269251355bb76fca37d5c0f33bc&dn=The.Flash.2014.S04E05.720p.HDTV.x264-KILLERS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10b474f01024beb8fab851fdd2f579d0397f7803&dn=The.Flash.2014.S04E06.720p.HDTV.x264-AVS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24921d8a49d8f3bd8fed138d324bde2d3d102d73&dn=The.Flash.2014.S04E07.720p.HDTV.x264-KILLERS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2efdf2f88fa44a2513e61868944a9097d147587c&dn=The.Flash.2014.S04E08.720p.HDTV.x264-AVS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca4e71a6f9957d02f752257b77fc41479c270ae2&dn=The.Flash.2014.S04E09.720p.HDTV.x264-SVA%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e865159882296c0db2e9933bcef9490993a1cf80&dn=The.Flash.2014.S04E10.720p.HDTV.x264-AVS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:008f75cc59043a46e7a13efabd2f6d3febb8bc19&dn=The.Flash.2014.S04E11.REAL.REPACK.720p.HDTV.x264-AVS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a8cd5b70a3c4c768617bb5bb354d6cf257048c2&dn=The.Flash.2014.S04E12.720p.HDTV.x264-KILLERS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da26e6de566efabef8f55083495d923bb2118844&dn=The.Flash.2014.S04E13.720p.HDTV.x264-AVS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc42445bc462b6c2fa1b0b69b212e5759f39c914&dn=The.Flash.2014.S04E14.720p.HDTV.x264-AVS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d32ac2c2b2613d769577d8403560eb3f470afc20&dn=The.Flash.2014.S04E15.720p.HDTV.x264-AVS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5b3526248279d2b36c8bb9f178eb7dfdb5d91dd&dn=The.Flash.2014.S04E16.720p.HDTV.x264-AVS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E16[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22a25b08084bd2056dd4b2f4240914601d545cf8&dn=The.Flash.2014.S04E17.720p.HDTV.x264-FLEET%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E17[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:794ddf0d902682bfb061a0f6eee942c1288dad0a&dn=The.Flash.2014.S04E18.720p.HDTV.x264-KILLERS%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E18[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b6b55588e9d2ec13d348a2d7553a04a2a675586&dn=The.Flash.2014.S04E19.720p.HDTV.x264-SVA%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db3eeb91bc665e77cba20eed09d081b70044668d&dn=The.Flash.2014.S04E20.720p.HDTV.x264-SVA%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:610e397d409c4cb95c8a256a21e7013158376791&dn=The.Flash.2014.S04E21.720p.HDTV.x264-SVA%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E21[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b62204935396a3b101616851d9a3113377d38923&dn=The.Flash.2014.S04E22.720p.HDTV.x264-SVA%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E22[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4caaa972d7d77845477b9cf39c93f6bd87105754&dn=The.Flash.2014.S04E23.720p.HDTV.x264-SVA%5Brartv%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710&tr=udp%3A%2F%2F9.rarbg.to%3A2710$$lsname=[B]T04E23[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>LINKUNIVERSAL$$lsname=[B]T05[/B][COLOR yellow] ->[/COLOR][COLOR blue] THE FLASH [/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:991aa128204b4a240fe0df6b3691ed3934dc1271&dn=$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4784c5f13eb739898a39b6964b211da59d896bee&dn=$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e572ed4f78dd20dcee2c1be068e79ab8166d634&dn=$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e572ed4f78dd20dcee2c1be068e79ab8166d634&dn=$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8e8a6f9786a926e45fbd1fed33cc9f031546a16&dn=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5025075ea95286ee256aeee6575d2d465cdb9c82&dn=The.Flash.S05E06.720p.WEB.DUAL.WWW.GORDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5ebc16457394a5da621e7c7b0d6920b33380582&dn=%5b%5d%20The%20Flash%20S05E07%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:137db4a7e3837ca61be44cb872dc0ed3bc571951&dn=The.Flash.S05E08.720p.WEB.DUAL.WWW.GORDOTORRENTS.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2ceb5d7af07830db2ce1f6408dbe5381bf8ae33&dn=%5bBAIXE%20OUTROS%20EPS.%20NO%20COMANDO4KFILMES.COM%5d%20The%20Flash%20S05E09%20%5b720p%5d%20%5bWEB%5d%20%5bDUAL$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d48171642207f5283b370b14f6d5466ffc1b6431&dn=%5b%5d%20The%20Flash%20S05E10%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:958a40b2effcec79fa2d6d86ae4a737c0a7ab6d7&dn=%5d%20The%20Flash%20S05E11%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab035aea5023b8793832200e651c04648f133c82&dn=%5d%20The%20Flash%20S05E12%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bb420b0c9bc849bdc86065a417c28531a341469&dn=%5d%20The%20Flash%20S05E13%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d786c68700ecb6b74422471743c61fc231630861&dn=%5d%20The%20Flash%20S05E14%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0765714ef9b56b8d340d91675dfa1e9a18304ca&dn=%5d%20The%20Flash%20S05E15%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a5a0a74b0482603367de3d1b8f526b56ab88a75&dn=%5b%5d%20The%20Flash%20S05E16%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36e8634fd3dc1fab912f6eb27c162bd3306ab88b&dn=%5d%20The%20Flash%20S05E17%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbac2bb96eaa3f8f56e5aedb37bd971e94b9ac01&dn=%5d%20The%20Flash%20S05E18%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2780%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1522b10660015d9b61b3163752be5bbc9fe5e86&dn=%5bACESSE%20COMANDO4KFILMES.COM%5d%20The%20Flash%20S05E19%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd2ce8c91175faece2481787d8ed74ae53d79044&dn=%5b%5d%20The%20Flash%20S05E20%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e8c00fa4e5931754e57d09df9b4a5e611345f22&dn=%5d%20The%20Flash%20S05E21%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd136979862ca2dcf2e833f2e0a51cb9dacf74bf&dn=%5d%20The%20Flash%20S05E22%20%5b720p%5d%20%5bWEB-DL%5d%20%5bDUAL$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime] THE FLASH - 720 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série The Flash toas as temporadas</info>
+<genre>SUPER-HERÓIS</genre>    
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
