@@ -102,3 +102,42 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Carmen Sandiego[/B][/COLOR]</name>
+<thumbnail>https://s.afisha.ru/mediastorage/49/2e/6347e79a9ec64e2f94e444182e49.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção Carmen Sandiego</info>
+<genre>ANIMAÇÃO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Carmen Sandiego[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://s.afisha.ru/mediastorage/49/2e/6347e79a9ec64e2f94e444182e49.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de Carmen Sandiego em TORRENT</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Carmen Sandiego[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4mooXTrcvNg&feature=emb_logo</link>
+<thumbnail>https://s.afisha.ru/mediastorage/49/2e/6347e79a9ec64e2f94e444182e49.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ANIMAÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Carmen Sandiego - T04 - 2021 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KU5PJSBBIOMXXGLIQFAZOG2GIMH4FHJA&dn=COMOEUBAIXO.COM..WEB-DL.MKV.COMANDO.TO%20-%20Carmen.Sandiego.S04.1080p.DUAL</link>
+<thumbnail>https://s.afisha.ru/mediastorage/49/2e/6347e79a9ec64e2f94e444182e49.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>As aventuras de Carmen Sandiego, uma ladra mestre saltitante.</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
