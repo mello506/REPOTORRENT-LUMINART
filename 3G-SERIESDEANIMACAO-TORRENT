@@ -32,6 +32,45 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ANIMAÇÃO</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Surpreendentes X-Men[/B][/COLOR]</name>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Seção Surpreendentes X-Men</info>
+<genre>ANIMAÇÃO</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Surpreendentes X-Men[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91I4W-5jGjL._SL1500_.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de Surpreendentes X-Men em TORRENT</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Surpreendentes X-Men[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=H9LcOW5t1LI</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91I4W-5jGjL._SL1500_.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ANIMAÇÃO</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Surpreendentes X-Men - 2009 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E489F6E25035071C134020626B3924655E26BBA&dn=COMOEUBAIXO.COM..720P.AVI.Marvel%20Knights%20-%20Surpreendentes%20X-Men%20%28Marvel%20Knights%20-%20Astonishing%20X-Men%29%20%5b2009%5d%20Completo%20WEBRip%20XViD%20DUBLADO&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=http%3a%2f%2ftracker.torrentyorg.pl%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fdenis.stalker.upeer.me%3a6969%2fannounce&tr=http%3a%2f%2ftracker.yoshi210.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftorrentclub.tech%3a6969%2fannounce&ws=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce%2f&ws=http%3a%2f%2ftracker.torrentyorg.pl%3a80%2fannounce%2f&ws=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce%2f&ws=udp%3a%2f%2fexplodie.org%3a6969%2fannounce%2f&ws=udp%3a%2f%2fdenis.stalker.upeer.me%3a6969%2fannounce%2f&ws=http%3a%2f%2ftracker.yoshi210.com%3a6969%2fannounce%2f&ws=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce%2f&ws=udp%3a%2f%2ftorrentclub.tech%3a6969%2fannounce%2f</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91I4W-5jGjL._SL1500_.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Do mestre contador de histórias Joss Whedon Os Vingadores e artista premiado John Cassaday, quatro histórias dos quadrinhos de tirar o fôlego, que prometem abalar as estruturas dos X-Men para sempre!</info>
+<genre>ANIMAÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Hoops[/B][/COLOR]</title>
 <link>NOLINK</link>
@@ -54,9 +93,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Hoops - T01 - 2020 - Dublado[/B][/COLOR]</title>
-
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55369055ace62fef3eed3901aab8b473d28d03ed&dn=COMOEUBAIXO.COM..WEB-DL.MKV.-DUBLADO-DUAL-AUDIO-..COMANDO.TO%20-%20Hoops%201%c2%aa%20temporada%20Completa%202020%20%5b1080p%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2780%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce</link>
-
 <thumbnail>https://ondebaixa.com/imagens/hoops-1-temporada-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Nesta série de animação, um técnico de basquete grosseiro e mal-humorado faz de tudo para colocar seu time na linha e chegar? s divisões principais. </info>
