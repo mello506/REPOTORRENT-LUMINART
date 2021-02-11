@@ -24,6 +24,57 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Great War[/B][/COLOR]</name>
+<thumbnail>https://ondeeubaixo.org/capas/the-great-war-legendado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme The Great War</info>
+<genre>GUERRA</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] The Great War[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://ondeeubaixo.org/capas/the-great-war-legendado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o Filme The Great War em TORRENT</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Great War[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=wtL3WYsB1zc</link>
+<thumbnail>https://ondeeubaixo.org/capas/the-great-war-legendado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] The Great War -  2020  - Dublado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6536029C5F050EC02229801A32957848B0BC980A&dn=The.Great.War.2019.1080p.WEBRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://ondeeubaixo.org/capas/the-great-war-legendado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Durante os últimos dias da Grande Guerra, um grupo de soldados dos EUA é enviado para trás das linhas inimigas para resgatar um pelotão perdido.  </info>
+<genre>GUERRA</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime] The Great War -  2020  - Legendado[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cc238540ac585fe39c7609a13643c2bd4022993&dn=The.Great.War.2019.720p.BluRay.H264.AAC-RARBG&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2730&tr=udp%3A%2F%2F9.rarbg.to%3A2740</link>
+<thumbnail>https://ondeeubaixo.org/capas/the-great-war-legendado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Durante os últimos dias da Grande Guerra, um grupo de soldados dos EUA é enviado para trás das linhas inimigas para resgatar um pelotão perdido.  </info>
+<genre>GUERRA</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Flyboys[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/N1ysv46/flyboys-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -32,7 +83,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Flyboys[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Flyboys[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/N1ysv46/flyboys-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -84,7 +135,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Gallipoli[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Gallipoli[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/KwgmJLx/gallipoli-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -134,7 +185,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Último Batalhão[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Último Batalhão[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/7RmFMxZ/ultimobatalhao-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -184,7 +235,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Cavalo de Guerra[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Cavalo de Guerra[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/Js8Y9RG/cavalodeguerra-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -236,7 +287,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] 1917[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] 1917[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/LCXBry9/1917-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -286,7 +337,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Terreno Proibido[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Terreno Proibido[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/zs0bfHv/terrenoproibido-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -338,7 +389,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Silêncio da Montanha[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Silêncio da Montanha[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/kHL5wZD/silenciomontanha-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -388,7 +439,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Heróis de uma Guerra[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Heróis de uma Guerra[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/zxQXPxz/heroisumaguerra-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -438,7 +489,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Eterno Amor[/B][/COLOR]</title>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Eterno Amor[/B][/COLOR]</title>
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/bQWs9mq/eternoamor-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
