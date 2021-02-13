@@ -25,6 +25,66 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
+<name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tempo de Glória[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/tYalCKv.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Filme Tempo de Glória</info>
+<genre>ÈPICOS</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Tempo de Glória[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://i.imgur.com/tYalCKv.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui o Filme Tempo de Glória em TORRENT</info>
+<genre>ÈPICOS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tempo de Glória[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Q31CRrt9mzs</link>
+<thumbnail>https://i.imgur.com/tYalCKv.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>ÈPICOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]720[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tempo de Glória - 1989 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SYZRDSQUIL47WJVHYBT37TDKZWSYGAPT&dn=Tempo+de+Gl%C3%B3ria+%281989%29+BRrip+Blu-Ray+720p+Dublado+-+%27%27DAT2015%27%27&tr=udp://tracker.openbittorrent.com:80/announce</link>
+<thumbnail>https://i.imgur.com/tYalCKv.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Durante a Guerra Civil americana, Robert Gould Shaw Matthew Broderick, um jovem sem experiência, mas de uma influente família, recebe o comando do primeiro batalhão composto exclusivamente por soldados negros.</info>
+<genre>ÈPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tempo de Glória - 1989 - Dublado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f38ee10f712f2f8c967f97b5538a64e7eacb8891</link>
+<thumbnail>https://i.imgur.com/tYalCKv.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Durante a Guerra Civil americana, Robert Gould Shaw Matthew Broderick, um jovem sem experiência, mas de uma influente família, recebe o comando do primeiro batalhão composto exclusivamente por soldados negros.</info>
+<genre>ÈPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]1080[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Tempo de Glória - 1989 - Legendado[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:113acd53e58a0b4ba5d67ccd485b683dcdd3c088</link>
+<thumbnail>https://i.imgur.com/tYalCKv.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Durante a Guerra Civil americana, Robert Gould Shaw Matthew Broderick, um jovem sem experiência, mas de uma influente família, recebe o comando do primeiro batalhão composto exclusivamente por soldados negros.</info>
+<genre>ÈPICOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels></channels>
+<channel>
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Noé[/B][/COLOR]</name>
 <thumbnail>https://ondebaixa.com/capa/noe-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
