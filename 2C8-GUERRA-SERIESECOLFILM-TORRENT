@@ -257,4 +257,49 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Quando os Sinos Dobram[/B][/COLOR]</name>
+<thumbnail>ICONEPASTA</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Série Quando os Sinos Dobram</info>
+<genre>GUERRA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA A MINI-SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Quando os Sinos Dobram[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxBdEPzRZO0e4ZFKmM8rEKDary2NH8u9nRKUrGdx5PtqTE-K6A</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios da série Quando os Sinos Dobram no G DRIVE</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Quando os Sinos Dobram[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tdKf0ck9PM4</link>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxBdEPzRZO0e4ZFKmM8rEKDary2NH8u9nRKUrGdx5PtqTE-K6A</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao Trailer</info>
+<genre>GUERRA</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Quando os Sinos Dobram - 2014 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1t-NDZLA5lDEm7dzQZjDJDkDGryXlczzP/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 01[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1q0eGu3d0truShbSKhvG5MFluWX-k9u4F/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 02[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1sWzbY5vIaT0kdfvysNGSa3yq_KYD7sPC/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 03[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LHaZHcRI6BozqK89nChvrD4C3bI9VBGl/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 04[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1f4Bik00q026bb3wkYw2mKcEwFFy0u8F2/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Episodio 05[/B][/COLOR]</link>
+
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQxBdEPzRZO0e4ZFKmM8rEKDary2NH8u9nRKUrGdx5PtqTE-K6A</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>No começo da Primeira Guerra Mundial, dois adolescentes desafiam seus pais e se alistam no exército.</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
