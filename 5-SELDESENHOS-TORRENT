@@ -33,16 +33,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Jonny Quest[/B][/COLOR]</title>
-<link>NOLINK</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os episódios de Jonny Quest em TORRENT</info>
-<genre>DESENHOS</genre> 
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jonny Quest [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=TDSa0gR5u9E</link>
 <thumbnail>ICONE</thumbnail>
@@ -53,7 +43,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]DESENHOS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jonny Quest - 2015 - Dublado[/B][/COLOR]</title>
+<title>[B]ASSISTA EM TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Jonny Quest[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de Jonny Quest em TORRENT</info>
+<genre>DESENHOS</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jonny Quest - 2015 - Dublado[/B][/COLOR]</title>
 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:209d8fb5c0c86de2a06b94e5aa42dd1177f7fdcc&dn=Jonny.Quest.S01.1964.BRrip.1080p.h264.AC3.DUBLADO&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969</link>
 
@@ -63,6 +63,98 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>DESENHO</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA NO G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Jonny Quest[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os episódios de Jonny Quest em TORRENT</info>
+<genre>DESENHOS</genre> 
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jonny Quest - T01 - 1964 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CljhkH3yW_sIc3_Jtwpznmhc29wgG_Zs/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Misterio dos Homens Lagartos [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wqRFQTovI4_RG0qf3x4veTxjw99385xs/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Foguete Desaparecido [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rsHc9fpMOmTvmvZ3fYDaVtp15JAuHjZJ/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Maldicao de Anubis[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14tt-4UbqcIth4LLi5zMKUaYWN65rQSau/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Ao soar dos tambores [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1W9iu_8F634j3qzb9EdWnxMBL8Rl0hqmT/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Enigma[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15U96GjaWmtW93W1cissWUVknX0jb65rA/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Tesouro do Templo [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1c6iOWmHuDKgexHd7Z0Yrb6dGmyS8qM6_/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Aventura em Calcuta [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19LM9Apavg4uUxd48F2k6CCcOIOyHetEP/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Robo Espiao [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g3Jnz2n_JKK4MeVzlYLKWb5YNSXdV-Rq/view$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Tesouro do Templo [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1GhXH1OUU0RltTjdxAGj1v4nvH6E5c3eP/view$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Sombra do Condor [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1c_U2eZ4g7nSq9IH8mKPYRwb5y39v6wfF/view$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Tesouro [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jsOHfIO22TEoSKedxViPI3PY01kyKzZe/view$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Magia Negra[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dPjO6RedlvP09fG5MrqSd4fyB02MXFtA/view$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Pigmeus [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1R7i6nT2luonzj-7Dr-pMfUCcoW0GYVP4/view$$lsname=[B]T01E14[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Os Dragoes de Ashida [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1KErYGMHmz17jogN4frGntuR-VqooVvwv/view$$lsname=[B]T01E15[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Turu o Terrivel [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Yop0fR_rkMsfGGvxMrUFneVYngQB319x/view$$lsname=[B]T01E16[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Vulcao do Dr Zin [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1J0z18NTj5qpEpYk3uS8i73iX6vIjtZDG/view$$lsname=[B]T01E17[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Lobisomem [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mpMq8W9M6pWgif-JkJP9h1S6GH5tdkhn/view$$lsname=[B]T01E18[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Piratas Submarinos[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EXBFCEnifA5Hxh10KxTTHgSqxDOof1GK/view$$lsname=[B]T01E19[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Rapto[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-rQTP6nckBZbgHKs8cm7Yiv1O-VBVLCP/view$$lsname=[B]T01E20[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Monstro Invisivel [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YvJCmWqB4t0LCi25RudxuWwHF5VTyeMf/view$$lsname=[B]T01E21[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Africa Misteriosa [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BM_HZ28EsBUISM6n9Ze9dXr6zJ0lw9UZ/view$$lsname=[B]T01E22[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Lagoa Envenenada [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10wr3Kzg_gG3eLhI1ueeByZonl1Hu1xPU/view$$lsname=[B]T01E23[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Casa dos Sete Gargulas [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kGo-NEWcAUhhIUJymh_Qk_-YjICUfONh/view$$lsname=[B]T01E24[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ilha do Terror [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1892aPk7Rx_xoMWhYRrZcH3nHv6-FTcUM/view$$lsname=[B]T01E25[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Abominavel Homem das Neves [/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19abnHC4ICRhSaFQcIvuyKTy_J2-ScaOX/view$$lsname=[B]T01E26[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Monstro do Mar de Java [/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Acompanhe as aventuras de um garoto de dez anos que, junto com o seu pai cientista e um grupo de amigos, viaja em missões secretas à serviço do governo americano, resolvendo diversos mistérios.</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA NO G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Jonny Quest - The Real Adventures[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista aqui os desenhos Jonny Quest - The Real Adventures no G DRIVE</info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jonny Quest - The Real Adventures[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=DF-DIlAiy3I</link>
+<thumbnail>ICONEDOARQUIVO</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Assista ao trailer</info>
+<genre>DESENHOS</genre>  
+</item> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Jonny Quest - The Real Adventures - T01 - 1996 - Dublado[/B][/COLOR]</title>
+
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XpazZ11LQrdsIQArehpi_K_6fDwX7-Bg/view$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fantasmas das Profundezas[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gOLDKQUjDdWSFre4w0dGDGIuTuafWA9P/view$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Fuga para o Mundo Quest[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1jrkdFR-BcdCAxszS0iQ0fd50u9QJGr2s/view$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Reino do Condor[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1N1rvCiK63JQ-n3WbEjBX2wBk6nHqmIG1/view$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Formula do Juizo Final[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vkQum_rFFnb1if16O2LQ3qlPs58Sqn_m/view$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Ultima Viagem de Dovu[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16EY-kXLkEMCDDrt0C2T39qInLaV2Z2uW/view$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Carniceiro de Manhattan[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LRaGyBcUAILuUIFih9HLXMdcuinWsM50/view$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Leste de Zanzibar[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LqfEdhzWSA-H20nOhsDK4F2PLIYjlDe8/view$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Conquista do Mundo Quest[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1JEI0Rp9V8DUQ7fYRL4ccj7nR3ZjNuGSu/view$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Vinganca de Ezequiel Furia[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18aMRBAzHRie6KlXPLQyOcSZ1Vi33MBYW/view$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Um Alienigena em Washington[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1pQOCApyS4mfGzuxGkrtAs1LeQDpnI2E4/view$$lsname=[B]T01E11[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A Volta dos Anasazi[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cVRevzJjrdwrCEZKWQdzZnxCrkWFYW1m/view$$lsname=[B]T01E12[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Alquimista[/B][/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/192ns2uxRW1swQ7zQ70WqrVGx84XEwX28/view$$lsname=[B]T01E13[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Perigo Virtual[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Jonny Quest, Hadji Singh, e Jessie Bannon enquanto acompanhavam o Dr. Benton e guarda-costas da Raça Quest Bannon para investigarem estranhos fenômenos, lendas e mistérios em locais exóticos. Ação também acontece na esfera virtual de QuestWorld, um domínio ciberespaço tridimensional renderizada com animação de computador. </info>
+<genre>DESENHOS</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
